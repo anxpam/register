@@ -1,7 +1,7 @@
 {
   "description": "URL Shortener Web App hosted on Netlify",
   "domain": "is-cool.dev",
-  "subdomain": "example",
+  "subdomain": "linklytics",
 
   "owner": {
     "repo": "https://github.com/anxpam/register",
